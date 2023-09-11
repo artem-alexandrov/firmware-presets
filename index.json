@@ -153,6 +153,7 @@
     "author": [
       "Alex Campbell (Chief)",
       "Alex Vanover",
+      "Artem Aleksandrov",
       "AyyyKayyy - Anthony Knight",
       "benlumley",
       "Betaflight",
@@ -3717,6 +3718,21 @@
         "OSD"
       ],
       "author": "Betaflight",
+      "priority": 0
+    },
+    {
+      "fullPath": "presets/4.4/osd/my_default.txt",
+      "hash": "a05dbd32965e7cef03a6d607283d9c9f95387f9a20c1fe535eb542b5383c02da",
+      "title": "My 4.4 OSD settings",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "OSD"
+      ],
+      "author": "Artem Aleksandrov",
       "priority": 0
     },
     {
