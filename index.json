@@ -3721,21 +3721,6 @@
       "priority": 0
     },
     {
-      "fullPath": "presets/4.4/osd/my_default.txt",
-      "hash": "a05dbd32965e7cef03a6d607283d9c9f95387f9a20c1fe535eb542b5383c02da",
-      "title": "My 4.4 OSD settings",
-      "firmware_version": [
-        "4.4"
-      ],
-      "category": "OSD",
-      "status": "COMMUNITY",
-      "keywords": [
-        "OSD"
-      ],
-      "author": "Artem Aleksandrov",
-      "priority": 0
-    },
-    {
       "fullPath": "presets/4.4/other/Tehllama_5in_Race_Multivoltage.txt",
       "hash": "69196f1b328ee290fb8293affa6dd96677d14512e1782112c4cb5af98f43e855",
       "title": "Tehllama 5\" Race Multivoltage",
@@ -4865,6 +4850,21 @@
       ],
       "author": "sugarK",
       "priority": 1000000000000
+    },
+    {
+      "fullPath": "presets/mine/osd.txt",
+      "hash": "a05dbd32965e7cef03a6d607283d9c9f95387f9a20c1fe535eb542b5383c02da",
+      "title": "My 4.4 OSD settings",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "OSD",
+      "status": "COMMUNITY",
+      "keywords": [
+        "OSD"
+      ],
+      "author": "Artem Aleksandrov",
+      "priority": 0
     }
   ]
 }
