@@ -1,0 +1,11 @@
+#$ TITLE: My 4.4 OSD settings
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: OTHER
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: OTHER
+#$ AUTHOR: Artem Aleksandrov
+#$ DESCRIPTION:
+
+# other
+set small_angle = 180
+set pilot_name = hereyr
